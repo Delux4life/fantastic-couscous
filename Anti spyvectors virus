@@ -1,0 +1,125 @@
+~/downloads $ file editor
+The program file is not installed. Install it by executing:
+ pkg install file
+~/downloads $ pkg install file
+No mirror or mirror group selected. You might want to select one by running 'termux-change-repo'
+Checking availability of current mirror:
+[*] https://packages.termux.dev/apt/termux-main: bad
+Testing the available mirrors:
+[*] (10) https://packages-cf.termux.dev/apt/termux-main: bad
+[*] (1) https://mirror.nevacloud.com/applications/termux/termux-main: bad
+[*] (1) https://mirror.albony.xyz/termux/termux-main: bad
+[*] (1) https://linux.domainesia.com/applications/termux/termux-main: bad
+[*] (1) https://mirror.bardia.tech/termux/termux-main: bad
+[*] (1) https://packages.nscdn.top/termux-main: bad
+[*] (1) https://mirrors.cbrx.io/apt/termux/termux-main: bad
+[*] (1) https://mirrors.sdu.edu.cn/termux/termux-main: bad
+[*] (1) https://mirror.nyist.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.hit.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.pku.edu.cn/termux/termux-main/: bad
+[*] (1) https://mirrors.sau.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.ustc.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.cqupt.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.nju.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.sustech.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.aliyun.com/termux/termux-packages-24: bad
+[*] (1) https://mirror.iscas.ac.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.scau.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.dgut.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.bfsu.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.njupt.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.sahilister.in/termux/termux-main: bad
+[*] (1) https://termux.3san.dev/termux/termux-main: bad
+[*] (4) https://grimler.se/termux/termux-main: bad
+[*] (1) https://mirror.accum.se/mirror/termux.dev/termux-main: bad
+[*] (1) https://termux.librehat.com/apt/termux-main: bad
+[*] (1) https://mirror.mwt.me/termux/main: bad
+[*] (1) https://termux.mentality.rip/termux-main: bad
+[*] (1) https://termux.cdn.lumito.net/termux-main: bad
+[*] (1) https://termux.astra.in.ua/apt/termux-main: bad
+[*] (1) https://dl.kcubeterm.com/termux-main: bad
+[*] (4) https://packages.termux.dev/apt/termux-main: bad
+[*] (1) https://mirrors.utermux.dev/termux/termux-main: bad
+[*] (1) https://mirror.mwt.me/termux/main: bad
+[*] (1) https://mirror.vern.cc/termux/termux-main: bad
+[*] (1) https://plug-mirror.rcac.purdue.edu/termux/termux-main: bad
+[*] (1) https://mirror.csclub.uwaterloo.ca/termux/termux-main: bad
+[*] (1) https://mirror.surf/termux/termux-main/: bad
+[*] (1) http://mirror.mephi.ru/termux/termux-main: bad
+Error: None of the mirrors are accessible
+~/downloads $ file editor
+The program file is not installed. Install it by executing:
+ pkg install file
+~/downloads $ pkg install file-editor
+No mirror or mirror group selected. You might want to select one by running 'termux-change-repo'
+Checking availability of current mirror:
+[*] https://packages.termux.dev/apt/termux-main: bad
+Testing the available mirrors:
+[*] (10) https://packages-cf.termux.dev/apt/termux-main: bad
+[*] (1) https://mirror.nevacloud.com/applications/termux/termux-main: bad
+[*] (1) https://mirror.albony.xyz/termux/termux-main: bad
+[*] (1) https://linux.domainesia.com/applications/termux/termux-main: bad
+[*] (1) https://mirror.bardia.tech/termux/termux-main: bad
+[*] (1) https://packages.nscdn.top/termux-main: bad
+[*] (1) https://mirrors.cbrx.io/apt/termux/termux-main: bad
+[*] (1) https://mirrors.sdu.edu.cn/termux/termux-main: bad
+[*] (1) https://mirror.nyist.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.hit.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.pku.edu.cn/termux/termux-main/: bad
+[*] (1) https://mirrors.sau.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.ustc.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.cqupt.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.nju.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.sustech.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.aliyun.com/termux/termux-packages-24: bad
+[*] (1) https://mirror.iscas.ac.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.scau.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.dgut.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.bfsu.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.njupt.edu.cn/termux/apt/termux-main: bad
+[*] (1) https://mirrors.sahilister.in/termux/termux-main: bad
+[*] (1) https://termux.3san.dev/termux/termux-main: bad
+[*] (4) https://grimler.se/termux/termux-main: bad
+[*] (1) https://mirror.accum.se/mirror/termux.dev/termux-main: bad
+[*] (1) https://termux.librehat.com/apt/termux-main: bad
+[*] (1) https://mirror.mwt.me/termux/main: bad
+[*] (1) https://termux.mentality.rip/termux-main: bad
+[*] (1) https://termux.cdn.lumito.net/termux-main: bad
+[*] (1) https://termux.astra.in.ua/apt/termux-main: bad
+[*] (1) https://dl.kcubeterm.com/termux-main: bad
+--] (4) --tps://packages.termux.dev/apt/termux-^[[F[6~^[[5~-^[[H^[[B^[[F^[[A^[[C^[[B^[[B^[[D^[^[[F[B^[[C^_^[[H--rrors.^[^[/--^[[B^[[B^[[B^[[B[[[H^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[H^[[Fmain: bad
+-[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[A^[[A^[[A^[[A^[[A^[[A-[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[-^[[A^[[A^[[A^[[A^[[A
+/*] (1) https://mirror.surf/termux/termux-main// bad
+^[5~(1) http://mirror.mephi.ru/termux/termux-main: bad
+[[[6~: None of the mirrors are accessible
+~/downloads $ copy
+No command copy found, did you mean:
+ Command hcopy in package hfsutils
+^[[6~and mcopy in package mtools
+~/downloads $ paste
+^[[6~
+
+[[[6~[[F
+
+[[[6~
+
+[[B^[[D
+
+^[[F
+^[[A
+^[[H
+^[[B
+
+^[[C
+
+[[1;3F
+^[
+^[[6~
+[[1;3C^[[1;3F^[3^[
+83[F^[^[[F
+  88
+11
+[[^[[F^[[F^[[F^[[F^[^[[F^[[F^[[F^[ĺ^[[Fp^[[5~ p^[[5~^[^[^[[5~^[^[[6~^[[6~^[^[[5~^[[5~^[[6~^[^[^[^[^[[5~^[[5~^[[6~^[[5~-^[[F^[[F^[[F   ^[[6~^[[6~^[[1;5C^[[B^[[B      ^[[B^[[A        ^[[ButzC     •●♤°♤♧°♤♧□¡°°|♤♧•¡°,!$!&!3%,!3^!●♤.;  ^[[B^[[B^[[B^[[6~^[[6~^[[6~^[[5~^[[6~^[[6~^[[6~^[[C^[[B^[[6~^[[B^[[6~^[[B^[[6~^[[6~^[[6~^[[C^[[6~^[[6~^[[6~^[[6~^[[6~^[[6~^[[B^[[6~^[[B^[[6~^[[B0^[[6~^[[5~^[[6~^[[6~^[^[[C^[00 ^[[C    ^[[B7 ^[[B     ^[[B8^[^[^[[C^[[C88^[^[^[[B^[[^[[1;5C-^[[H8^[[C^[8^[8^[[C3^[[B^[[C^[[D88^[[H^[[1;3D^[[5~^[[B^[[5~^[[5~^[[5~^[[5~^[[B^[[5~^[[B^[[B^[[5p^[[B^[[p-^[[B^[[5~^[[B^utzC     •●♤°♤♧°♤♧□¡°°|♤♧•¡°,!$!&!3%,!3^!●♤.;  ~^[[5~^[[B^[[B^[[5~^[[5~^[[B^[[5~^[[B^[[5~^[[B^[[5~^[[5~^[[B^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[B^[[5~^[[B^[[5~^[[6~^[[5~6~^[[6~^[[6~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[5~^[[F
+                          0 0           7     88
